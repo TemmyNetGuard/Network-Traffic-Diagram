@@ -8,7 +8,7 @@ Firewall and Router.
 ---
 
 ## Diagram
-![How My Data Travels to the Internet](Network_Diagram.png)
+![How My Data Travels to the Internet](Network%20Diagram.png)
 
 ---
 
